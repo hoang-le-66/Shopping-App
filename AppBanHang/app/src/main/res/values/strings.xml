@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppBanHang</string>
+    <string name="gi_250000">Giá: 250000</string>
+    <string name="th_m_v_o_gi_h_ng">Thêm vào giỏ hàng</string>
+    <string name="password">Password</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="ng_k">Đăng kí</string>
+    <string name="n_u_ch_a_c_t_i_kho_n">Nếu chưa có tài khoản ?</string>
+    <string name="rewrite_password">Rewrite Password</string>
+    <string name="mobile_phone">Mobile Phone</string>
+</resources>
